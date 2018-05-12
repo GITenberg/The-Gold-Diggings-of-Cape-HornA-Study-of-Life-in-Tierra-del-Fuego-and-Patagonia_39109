@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '39848'
     url: http://www.gutenberg.org/2009/agents/39848
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39109#The-Gold-Diggings-of-Cape-HornA-Study-of-Life-in-Tierra-del-Fuego-and-Patagonia
 gutenberg_issued: '2012-03-11'
 gutenberg_type: Text
 identifiers:
